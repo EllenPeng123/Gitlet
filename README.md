@@ -10,3 +10,13 @@ Merging changes made in one branch into another.
 
 Simple Visualization of Commits: 
 ![img](1.png)
+
+Current Commits:
+![img](2.png)
+
+Revert last Commit:
+![img](3.png)
+
+Multiple Commits:
+![img](4.png)
+
