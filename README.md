@@ -11,10 +11,10 @@ Simple Visualization of Commits (snapshots of your files):
 ![img](1.png)
 
 Current Commits:
-![img](2.png)
+![img](3.png)
 
 Revert Last Commit:
-![img](3.png)
+![img](2.png)
 
 Multiple Commits(Commit Tree):
 ![img](4.png)
