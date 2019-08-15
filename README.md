@@ -1,6 +1,6 @@
 # Gitlet Summary
 
-This is a version control system is implemented from scratch and mimics the main functionality of the well-known Git, such as:<br />
+This is a version control system that mimics the main functionality of the well-known Git, such as:<br />
   - Committing: saving the contents of entire directories of files, which are called commits.<br />
   - Checking out: restoring a version of one or more files or entire commits. <br>
   - Log: viewing the history of your backups. <br />
