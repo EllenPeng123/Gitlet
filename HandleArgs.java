@@ -1,12 +1,6 @@
 package gitlet;
 
 
-/**
- * Bugs to fix:
- * 1. Args to take file name with spaces
- * 2. Status to show appropriate files
- * 3.
- */
 public class HandleArgs {
     String[] args;
 
