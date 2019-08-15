@@ -7,10 +7,10 @@ This is a version control system that mimics the main functionality of the well-
   - Branches: maintaining related sequences of commits.<br/>
   - Merging changes made in one branch into another.<br />
 
-Simple Visualization of Commits (snapshots of your files): 
+Simple Visualization of Commit (snapshots of your files): 
 ![img](1.png)
 
-Current Commits:
+Current Commit:
 ![img](3.png)
 
 Revert Last Commit:
