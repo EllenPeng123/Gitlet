@@ -25,3 +25,6 @@ Internal structures:<br />
   - Commits: Combinations of log messages, other metadata (commit date, author, etc.), a reference to a tree, and references to parent commits. The repository also maintains a mapping from branch heads to references to commits, so that certain important commits have symbolic names.<br />
   
 ![img](5.png)
+
+
+Collaborators: Cameron Mandley, Shruti Sriram, Dhriti Wasan.
